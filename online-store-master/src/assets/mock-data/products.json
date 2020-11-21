@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Ултрабук ACER SWIFT 1",
+    "brand": "ACER",
+    "price": 1100,
+    "description": "Ултрабук ACER SWIFT 1 SF114-32-P6AQ NX.GXUEX.025 14.0 \", INTEL PENTIUM N5000, RAM 8 GB, SSD 256 GB, INTEL UHD GRAPHICS 605, WINDOWS 10, СРЕБРИСТ",
+    "image": "ACER.jpg"
+  },
+  {
+    "title": "Гейминг лаптоп ASUS ROG",
+    "brand": "ASUS",
+    "price": 2800,
+    "description": "Гейминг лаптоп ASUS ROG G712LU-H7021 17.3 \", INTEL CORE I7-10750H, RAM 8 GB, SSD 512 GB, NVIDIA GEFORCE GTX1660Ti, 6 GB GDDR6, ЧЕРЕН",
+    "image": "ASUS.jpg"
+  },
+  {
+    "title": "Гейминг лаптоп HP PAV GAMING",
+    "brand": "HP",
+    "price": 1800,
+    "description": "Гейминг лаптоп HP PAV GAMING 16-A0000NU/1F7E1EA 16.1 \", INTEL CORE I5-10300H, RAM 8 GB, HDD 1000 GB, SSD 256 GB, NVIDIA GEFORCE GTX1650, 4 GB GDDR6, ЧЕРЕН",
+    "image": "HP.jpg"
+  },
+  {
+    "title": "Лаптоп HUAWEI MATEBOOK D14",
+    "brand": "HUAWEI",
+    "price": 1250,
+    "description": "Лаптоп HUAWEI MATEBOOK D14 /NOBELK-WAQ9BR 14.0 \", AMD RYZEN 5 3500U, RAM 8 GB, SSD 512 GB, AMD RADEON VEGA 8, WINDOWS 10, СРЕБРИСТ",
+    "image": "HUAWEI.jpg"
+  },
+  {
+    "title": "Гейминг лаптоп LENOVO Legion 5",
+    "brand": "LENOVO",
+    "price": 1850,
+    "description": "Гейминг лаптоп LENOVO Legion 5 Legion 5 15ARH05 82B50051BM 15.6 \", AMD RYZEN 5 4600H, RAM 8 GB, SSD 512 GB, NVIDIA GEFORCE GTX1650, 4 GB GDDR6, WINDOWS 10, ЧЕРЕН",
+    "image": "LENOVO.jpg"
+  },
+  {
+    "title": "Гейминг лаптоп MSI GF63",
+    "brand": "MSI",
+    "price": 1900,
+    "description": "Гейминг лаптоп MSI GF63 THIN 10SCSR 15.6 \", INTEL CORE I5-10300H, RAM 8 GB, SSD 512 GB, NVIDIA GEFORCE GTX1650Ti, 4 GB GDDR6, ЧЕРЕН",
+    "image": "MSI.jpg"
+  }
+]
